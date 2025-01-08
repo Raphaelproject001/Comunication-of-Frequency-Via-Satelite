@@ -63,7 +63,7 @@
             text-align: center;
         }
     </style>
-    <script src="https://maps.google.com></script>
+    https://maps.google.com
 </head>
 <body>
     <header>
