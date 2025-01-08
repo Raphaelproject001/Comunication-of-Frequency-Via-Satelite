@@ -63,7 +63,7 @@
             text-align: center;
         }
     </style>
-    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_GOOGLE_MAPS_API_KEY&callback=initMap" async defer></script>
+    <script src="https://maps.google.com></script>
 </head>
 <body>
     <header>
@@ -107,6 +107,7 @@
         <section>
             <h2>Link para a Estação de Rádio</h2>
             <p>Acesse a estação de rádio através deste <a href="https://www.airnavradar.com/stations/PGANRB501323?vhf=undefined" target="_blank">link</a>.</p>
+            <p>Entre em contato com RGPSNORDESTE, fale com Rafael B. Silva pelo Whatsapp:(88)981885590.
         </section>
     </main>
 
