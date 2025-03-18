@@ -105,8 +105,7 @@
         </section>
 
         <section>
-            <h2>Link para a Estação de Rádio</h2>
-            <p>Acesse a estação de rádio através deste <a href="https://www.airnavradar.com/stations/PGANRB501323?vhf=undefined" target="_blank">link</a>.</p>
+            <h2>Link para a Estação de Rádio</h2
             <p>Entre em contato com RGPSNORDESTE, fale com Rafael B. Silva pelo Whatsapp:(88)981885590.
         </section>
     </main>
